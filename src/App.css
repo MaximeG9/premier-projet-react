@@ -1,0 +1,28 @@
+.welcome {
+    /* padding-top: 20px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.time {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.backgroundBlack {
+    background-color: black;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.bigSize {
+    font-size: 54px;
+}
